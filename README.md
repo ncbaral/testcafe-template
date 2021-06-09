@@ -6,7 +6,7 @@
 <img alt="Gherkin with TestCafe" src="https://img.shields.io/badge/gherkin%20with-TestCafe-2fa4cf.svg">
 </a>
 
-## A lightweight and extensible framework to write e2e tests in a gherkin-like syntax.
+## A lightweight and extensible framework to write e2e tests in a gherkin-like syntax. update
 
 ```typescript
 fixture('Feature: TestCafe Example')
