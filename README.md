@@ -39,7 +39,7 @@ test('Scenario: send feedback', async () => {
 
 ![demo](./.media/demo1.gif)
 
-## Benefit from TypeScript Strong Typing and Visual Studio Code IntelliSense to write tests that are aligned with the business
+## Benefit from TypeScript Strong Typing and Visual Studio Code IntelliSense to write tests that are aligned with the business requirement
 
 ![demo](./.media/demo3.gif)
 
