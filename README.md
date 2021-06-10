@@ -172,4 +172,4 @@ Right-click on the test and and select TestCafe: `Run Test(s) in...` for the req
 
 ### To run all tests in a feature file
 
-Right-click on the feature file within the Explorer panel and select TestCafe: `Run Test(s) in...` for the required browser.
+Right-click on the feature file within the Explorer panel and select TestCafe: `Run Test(s) in...` for the required browser. More changes
