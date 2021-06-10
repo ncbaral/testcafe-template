@@ -39,7 +39,7 @@ test('Scenario: send feedback', async () => {
 
 ![demo](./.media/demo1.gif)
 
-## Benefit from TypeScript Strong Typing and Visual Studio Code IntelliSense to write tests that are aligned with the business
+## Benefit from TypeScript Strong Typing and Visual Studio Code IntelliSense to write tests that are aligned with the business requirement
 
 ![demo](./.media/demo3.gif)
 
@@ -172,4 +172,4 @@ Right-click on the test and and select TestCafe: `Run Test(s) in...` for the req
 
 ### To run all tests in a feature file
 
-Right-click on the feature file within the Explorer panel and select TestCafe: `Run Test(s) in...` for the required browser.
+Right-click on the feature file within the Explorer panel and select TestCafe: `Run Test(s) in...` for the required browser. More changes
